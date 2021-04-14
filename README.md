@@ -22,6 +22,7 @@ Table view listing by RxSwift With MVVM architecture
 - [RxSwift](https://github.com/ReactiveX/RxSwift)
 - [Kingfisher](https://github.com/onevcat/Kingfisher)
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+- [R.swift](https://github.com/mac-cain13/R.swift)
 
 
 To run the project, clone the repo, and run pod install from the RRSwiftDataListing directory first.
